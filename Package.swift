@@ -15,7 +15,7 @@ let package = Package(
             targets: ["PopinaMoya"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/Moya/Moya.git", .upToNextMajor(from: "14.0.0")),
+        .package(url: "https://github.com/Moya/Moya.git", .upToNextMajor(from: "13.0.0")),
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
