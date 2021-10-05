@@ -15,7 +15,7 @@ let package = Package(
             targets: ["PopinaMoya"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/Moya/Moya.git", .upToNextMajor(from: "13.0.0")),
+        .package(url: "https://github.com/popina/Moya.git", .branch("13.0.1_xcode13warnings")),
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.

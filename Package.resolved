@@ -12,11 +12,11 @@
       },
       {
         "package": "Moya",
-        "repositoryURL": "https://github.com/Moya/Moya.git",
+        "repositoryURL": "https://github.com/popina/Moya.git",
         "state": {
-          "branch": null,
-          "revision": "ae2ca8a51c0e28d67e59c46f55bb43dda89ca0d6",
-          "version": "13.0.1"
+          "branch": "13.0.1_xcode13warnings",
+          "revision": "96bab5baa18f5fda895620ac0b80307aec6c7738",
+          "version": null
         }
       },
       {
