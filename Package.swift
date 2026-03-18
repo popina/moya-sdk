@@ -15,7 +15,7 @@ let package = Package(
             targets: ["PopinaMoya"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/popina/Moya.git", .upToNextMajor(from:"13.0.2")),
+        .package(url: "https://github.com/popina/Moya.git", .upToNextMajor(from:"15.0.3")),
         .package(url: "https://github.com/apple/swift-log", .upToNextMajor(from: "1.4.2"))
     ],
     targets: [
